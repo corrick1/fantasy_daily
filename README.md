@@ -7,4 +7,6 @@ A simple software to push the daily button on your Fantasy account.
 4. Next, run the main.py file
 5. You can track the workflow in the “app.log” file
 
+# quest.py - this file you can run when there are quests for 100 stars, usually there are likes and reposts, you will need to change the quest id, to do this you will need to look through devtool what request you send and its payload, there will be an id, you just need to replace the id to the real one in the file quest.py and run the code 
+
 https://x.com/1l0ck
